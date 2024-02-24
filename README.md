@@ -2,8 +2,6 @@
 
 My name is Buwei and welcome to my GitHub page! Feel free to check out my projects. More are on the way and I'm working on them everyday, so be sure to check back soon!
 
-As of 2/23/24:
-
 🔭 I’m currently working on...
 - **BluebookAI**: a course-selection chatbot assistant for Yale students
 - **RoomAdvisor**: a website to search, shop, and review dorms at Yale for Yale students
