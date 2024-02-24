@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on...
-- **BluebookAI**: a chatbot course-selection assistant for Yale students
+- **BluebookAI**: a course-selection chatbot assistant for Yale students
 - **RoomAdvisor**: a website to search, shop, and review dorms at Yale for Yale students
 - A website that helps you brainstorm gift ideas, compare buying options, and come up with ingenius gift notes...
 
