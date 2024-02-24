@@ -1,5 +1,17 @@
 ### Hi there 👋
-
+🔭 I’m currently working on...
+- **BluebookAI**: a chatbot course-selection assistant for Yale students
+- **RoomAdvisor**: a website to search, shop, and review dorms at Yale for Yale students
+- A website that helps you brainstorm gift ideas, compare buying options, and come up with ingenius gift notes...
+🌱 I’m currently learning...
+- TheOdinProject--Full Stack JavaScript
+- AWS Solutions Architect
+- Automated tests
+📫 How to reach me: buwei.chen@yale.edu
+⚡ Fun facts...
+- Most recently learned song on guitar: Howl's Moving Castle
+- Diamond 2 in StarCraft II
+- Rubik's Cube PR: 15.72s
 <!--
 **BuweiChen/BuweiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
