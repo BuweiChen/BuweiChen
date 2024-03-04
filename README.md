@@ -8,7 +8,7 @@ My name is Buwei and welcome to my GitHub page! Feel free to check out my projec
 - A website that helps you brainstorm gift ideas, compare buying options, and come up with ingenius gift notes...
 
 🌱 I’m currently learning...
-- TheOdinProject--Full Stack JavaScript
+- TheOdinProject
 - AWS Solutions Architect
 - Automated tests
 
