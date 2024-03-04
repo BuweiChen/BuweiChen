@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Buwei and welcome to my GitHub page! Feel free to check out my projects. More are on the way and I'm working on them everyday, so be sure to check back soon!
+Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on the way and I'm working on them everyday, so be sure to check back soon!
 
 🔭 I’m currently working on...
 - **BluebookAI**: a course-selection chatbot assistant for Yale students
