@@ -8,7 +8,7 @@ Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on 
 - A website that helps you brainstorm gift ideas, compare buying options, and come up with ingenius gift notes...
 
 🌱 I’m currently learning...
-- TheOdinProject
+- TheOdinProject - React
 - AWS Solutions Architect
 - Automated tests
 
