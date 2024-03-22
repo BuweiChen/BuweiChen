@@ -10,7 +10,6 @@ Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on 
 🌱 I’m currently learning...
 - TheOdinProject - React
 - AWS Solutions Architect
-- Automated tests
 
 📫 How to reach me: buwei.chen@yale.edu
 
