@@ -5,16 +5,16 @@ Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on 
 🔭 I’m currently working on...
 - **Portfolio Website**: my personal webite and blog site
 - **RoomAdvisor**: a website to search, shop, and review dorms at Yale for Yale students
+- A web-based card game (inspired by Hearthstone's chess mode)
 
 🌱 I’m currently learning...
 - Three.js
-- AWS Solutions Architect
-- 172 Duet on guitar
+- USACO Guide
 
 📫 How to reach me: buwei.chen@yale.edu
 
 ⚡ Fun facts...
-- Most recently learned song on guitar: Just The Two of Us
+- Most recently learned song on guitar: Final Duet
 - Diamond 2 in StarCraft II
 - Rubik's Cube PR: 15.72s
 <!--
