@@ -14,7 +14,7 @@ Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on 
 📫 How to reach me: buwei.chen@yale.edu
 
 ⚡ Fun facts...
-- Most recently learned song on guitar: Final Duet
+- Most recently learned song on guitar: Perfect
 - Diamond 2 in StarCraft II
 - Rubik's Cube PR: 15.72s
 <!--
