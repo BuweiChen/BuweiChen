@@ -4,12 +4,15 @@ Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on 
 
 🔭 I’m currently working on...
 - **Portfolio Website**: my personal webite and blog site
-- **RoomAdvisor**: a website to search, shop, and review dorms at Yale for Yale students
-- A web-based card game (inspired by Hearthstone's chess mode)
+- An Electron scheduling app for my work
+- An *advanced* snake game (played through joystick/switch/button combo)
 
 🌱 I’m currently learning...
 - Three.js
 - USACO Guide
+- Raspberry Pi and ESP32
+- Game engines
+- Chess AI techniques and optimizations
 
 📫 How to reach me: buwei.chen@yale.edu
 
