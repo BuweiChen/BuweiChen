@@ -3,9 +3,9 @@
 Welcome to Buwei's GitHub page! Feel free to check out my projects. More are on the way and I'm working on them everyday, so be sure to check back soon!
 
 🔭 I’m currently working on...
-- **Portfolio Website**: my personal webite and blog site
 - An Electron scheduling app for my work
-- An *advanced* snake game (played through joystick/switch/button combo)
+- An autonomous drone project
+- Introductory machine learning...
 
 🌱 I’m currently learning...
 - Three.js
