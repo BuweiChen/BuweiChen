@@ -20,7 +20,7 @@ Currently going through it with systems programming (help)
 ⚡ Fun facts...
 - Most recently played through game: Slay the Spire
 - Spend valentine's day watching lectures
-- Practice my singing in the shower, working on How Deep Is Your Love, I Just Called To Say I Love You, and Can't Take My Eyes Off of You
+- Most recently learned guitar song: How Deep Is Your Love
 <!--
 **BuweiChen/BuweiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
