@@ -2,25 +2,20 @@
 
 Welcome to Buwei's GitHub page! Feel free to check out my projects.
 
-Currently going through it with systems programming (help)
-
 🔭 I’m currently working on...
-- Nothing at the moment! So I'll list the class assignments I've spent the most time on:
-- Iterative multiply/divide in Verilog
-- 5 stage instruction pipeline with bypassing in Verilog
-- You may see a pattern here...
+- My internship at Starlink Consumer Platform Engineering!
 
 🌱 I’m currently learning...
-- Computer Architecture
-- Operating Systems
-- Parallel Programming
+- DB optimization
+- Redis cache
+- Orval - restful client generator
 
 📫 How to reach me: buwei.chen@yale.edu
 
 ⚡ Fun facts...
-- Most recently played through game: Slay the Spire
-- Spend valentine's day watching lectures
-- Most recently learned guitar song: How Deep Is Your Love
+- Most recently played game: Hearthstone Battleground
+- I make a mean burrito
+- Most recently learned guitar song: Fly Me To The Moon
 <!--
 **BuweiChen/BuweiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
