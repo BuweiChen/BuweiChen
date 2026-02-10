@@ -1,3 +1,7 @@
-### Hi there 👋
+# Buwei Chen
 
-Welcome to Buwei's GitHub page! Feel free to check out my projects.
+B.S./M.S. in Computer Science, Yale University.
+
+## Links
+- LinkedIn: <https://www.linkedin.com/in/buwei-chen/>
+- Email: <buwei.chen@yale.edu>
